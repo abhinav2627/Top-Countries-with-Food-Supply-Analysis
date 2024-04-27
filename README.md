@@ -28,6 +28,7 @@ The primary objective of this project is to provide an accessible and insightful
 
 ## Usage
 To utilize this project:
+
 1.Clone the repository to your local machine.
 
 2.Install the necessary dependencies using pip.
